@@ -39,7 +39,6 @@
     justify-content: space-between;
 
     margin-bottom: 0.5em;
-
 }
 
 .descricao__titulo {
@@ -81,4 +80,9 @@
 
     font-weight: 700;
     text-decoration: none;
+}
+
+/* SEGUNDO CARROSSEL */
+.descricao-estrela__image {
+    padding-bottom: .5em;
 }
