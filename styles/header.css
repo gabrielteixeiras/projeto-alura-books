@@ -74,6 +74,12 @@
         display: none;
     }
 
+    .cabecalho {
+        display: flex;
+        justify-content: space-around;
+        padding: 1em 0;
+    }
+
     .container__image {
         padding: .5em;
     }
@@ -122,6 +128,4 @@
     .opcoes-menu:hover {
         background-color: var(--cor-azul-degrade);
     }
-
-
 }

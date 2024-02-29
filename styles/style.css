@@ -15,6 +15,8 @@
     --cor-laranja: #EB9B00;
     --cor-azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --cor-azul: #002F52;
+    --cor-texto-rodape: rgb(114, 114, 114);
+    --cor-preto: #000000;
 
     --font-primaria: "Poppins", sans-serif;
     --font-secundaria: "Josefin Sans", sans-serif;
